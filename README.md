@@ -1,5 +1,13 @@
 ### Hi 👋, I'm Lucas.
 
+I'm a Computational Engeneering Undergraduate at Federal University of Juiz de Fora. 🇧🇷
+
+Currently i'm development intern at Thomson Reuters.
+
+Nowadays my energy is focused on the study of blockchain and data science, as well as improving my web development skills.
+
+You can contact me by
+
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/lucasestevesr/)
 
