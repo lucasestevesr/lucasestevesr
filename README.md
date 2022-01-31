@@ -47,8 +47,8 @@ You can contact me on
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/profile/lucasesteves)
 [![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/lucas-estevesdosreis)
 
-- Solidity with CryptoZombies plataform.
-- .NET with Balta.IO plataform.
+- Solidity with CryptoZombies platform.
+- .NET with Balta.IO platform.
 
 
 
