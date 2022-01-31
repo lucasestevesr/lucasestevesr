@@ -43,4 +43,10 @@ You can contact me on
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasestevesr&langs_count=6&hide=TeXt&hide_border=true&theme=tokyonight)
 
+### Courses:
+[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/profile/lucasesteves)
+[![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/lucas-estevesdosreis)
+
+
+
 
