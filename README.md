@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Lucas. 
 
-I'm a Computational Engeneering Undergraduate at Federal University of Juiz de Fora. 🇧🇷
+I'm a Computational Science Engineering student at Federal University of Juiz de Fora. 🇧🇷
 
 Currently I'm a web development intern at Thomson Reuters.
 
