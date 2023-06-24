@@ -2,9 +2,9 @@
 
 I'm a Computational Science Engineering student at Federal University of Juiz de Fora. 🇧🇷
 
-Currently I'm a web development intern at Thomson Reuters.
+Currently I'm a web development.
 
-Nowadays I'm studying blockchain and data science, as well as improving my web development skills.
+Nowadays I'm studying blockchain, as well as improving my web development skills.
 
 You can contact me on
 
