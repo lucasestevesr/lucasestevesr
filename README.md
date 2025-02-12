@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Lucas. 
 
-I'm a Computational Science Engineering student at Federal University of Juiz de Fora. 🇧🇷
+🇧🇷
 
 You can contact me on
 
