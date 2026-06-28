@@ -2,6 +2,7 @@
 
 Check out my articles  [PT](https://lucasestevesr.github.io/pt/blog/) / [EN](https://lucasestevesr.github.io/en/blog/)
 
+my projects on: https://app.codecrafters.io/r/enchanting-snake-227208
 
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://lucasestevesr.substack.com/)
 
